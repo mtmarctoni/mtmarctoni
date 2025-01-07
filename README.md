@@ -1,16 +1,14 @@
-# Hi, I'm Marc Antoni Mas 👋
+#👋 Hello! I'm Marc, a versatile professional transitioning from Renewable Energy to Web Development.
 
 ### Nanoscientist, Physicist and Developer | JavaScript | Solidity | Renewable Energy Enthusiast
-
 ---
 
-### About Me
+### 🚀 About Me
 
-Hello, I'm **Marc Antoni Mas**—a versatile professional transitioning from **Renewable Energy** to **Web Development**, with a strong passion for programming and emerging technologies.
-
-Currently serving as the **Director of Solar Engineering and Innovation at EFIWATT**, I lead software development initiatives, create custom tools, and automate workflows using **JavaScript** and **Microsoft Power Tools**. My expertise spans from optimizing complex systems in solar energy to diving into web development and blockchain technology.
-
-Let's connect and explore how we can create cutting-edge solutions at the intersection of sustainability and technology!
+- 🌞 Former Technical Operations Lead at EFIWATT, specializing in solar projects and process automation
+- 💻 Passionate about JavaScript, blockchain technology, and Solidity
+- 🔧 Experienced in project management, budgeting, and stakeholder coordination
+- 🌱 Constantly learning and adapting to new technologies
 
 ---
 
@@ -31,19 +29,20 @@ Let's connect and explore how we can create cutting-edge solutions at the inters
 - **Renewable Energy Project Manager** at EFIWATT (02.2021-01.2024)
 - **Entrepreneur and Autodidact** (2019-2021)
 
+-->
 ---
 
 ### 🎓 Education
 - Master of Renewable Energy and Energy Efficiency - International University Center of Barcelona (UNIBA)
 - Bachelor of Physics - Autonomous University of Barcelona (UAB)
 - Bachelor of Nanoscience and Nanotechnology - Autonomous University of Barcelona (UAB)
--->
 
 ---
 
 ### 📫 Contact Me
 - Email: [marctonimas@outlook.es](mailto:marctonimas@outlook.es)
-- Phone: +34652134806
+- Whatsapp: +34 652 13 48 06
+- LinkedIn: [Marc Antoni Mas](https://mtmarctoni.github.io/my-cv/)
 - More info: [https://mtmarctoni.github.io/my-cv/](https://mtmarctoni.github.io/my-cv/)
 
 ---
@@ -56,6 +55,7 @@ Let's connect and explore how we can create cutting-edge solutions at the inters
 
 ---
 
+🔍 Currently seeking opportunities in web development and blockchain projects. Let's connect and create innovative solutions together!
 
 <!--
 **mtmarctoni/mtmarctoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
