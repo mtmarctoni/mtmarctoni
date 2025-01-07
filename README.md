@@ -1,7 +1,8 @@
-# 👋 Hello! I'm Marc, a versatile professional transitioning from Renewable Energy to Web Development.
+# 👋 Hello! I'm Marc
 
 ### Nanoscientist, Physicist and Developer | JavaScript | Solidity | Renewable Energy Enthusiast
 ---
+ I am a versatile professional transitioning from Renewable Energy to Web Development.
 
 ### 🚀 About Me
 
