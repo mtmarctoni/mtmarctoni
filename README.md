@@ -1,22 +1,47 @@
 # 👋 Hello! I'm Marc
 
-### Nanoscientist, Physicist and Developer | JavaScript | Solidity | Renewable Energy Enthusiast
+### Full Stack Developer | JavaScript | Blockchain & Web3 | Renewable Energy Enthusiast
 ---
- I am a versatile professional transitioning from Renewable Energy to Web Development.
+
+I always say: **_'Better spend 4 hours automating a process rather than spend 1 min doing it manually.'_**  It’s all about **thinking long-term** and creating efficient solutions. 
+
+When I discovered blockchain technology, I was captivated by its potential to revolutionize the internet. That’s when I decided to focus on full-stack programming to interact with blockchain and Web3 — the future of the internet as I see it.
+
+My journey into blockchain deepened when I uncovered the real truth about Bitcoin (thnk you Roger Ver) — its real purpose and transformative power. Since then, I’ve been hooked, dedicating myself to building a bright future around this technology. Blockchain isn’t just a tool; it’s a necessity for humanity to achieve transparency, security, and decentralization in an increasingly digital world.
 
 ### 🚀 About Me
 
-- 🌞 Former Technical Operations Lead at EFIWATT, specializing in solar projects and process automation
-- 💻 Passionate about JavaScript, blockchain technology, and Solidity
-- 🔧 Experienced in project management, budgeting, and stakeholder coordination
+- 🌞 Former Innovation Lead in Renewable Energies, specializing in photovoltaic solar projects and process automation
+- 💻 Passionate about JavaScript, decentralization, Web3, and blockchain technology
+- 🔧 Experienced in designing and implementing full-stack solutions, with a proven ability to tackle complex challenges, coordinate across teams, and deliver impactful results
 - 🌱 Constantly learning and adapting to new technologies
 
 ---
 
-### 🛠️ Languages & Technologies
-- **Programming Languages**: JavaScript, Solidity, TypeScript, VBA, SQL, Python
-- **Web Development**: React, HTML, CSS, Express, Vue, Node, Tailwind, Next, MongoDB
-- **Others**: Git, Excel, Hardhat, web3, Power Apps, Power Automate, Power BI, Power Query, Power Pivot
+### 🛠️ Stack
+
+- **Programming Languages**
+  
+  ![Languages](https://skillicons.dev/icons?i=js,ts,solidity,python)
+
+- **Frontend**
+
+  ![Front-end](https://skillicons.dev/icons?i=react,vue,astro,nextjs,tailwind,html,css)
+
+- **Backend**
+
+  ![Back-end](https://skillicons.dev/icons?i=nodejs,express,postgres,mongo)
+
+- **DevOps**
+
+  ![DevOps](https://skillicons.dev/icons?i=git,github,vercel)
+
+- **Others**
+
+  ![Technologies](https://skillicons.dev/icons?i=vscode,vite,postman,jest,ipfs,npm)
+
+- **Blockchain**
+   ethersjs, Hardhat, Foundry, Metamask, Ethereum
 
 <!--
 ---
@@ -42,9 +67,8 @@
 
 ### 📫 Contact Me
 - Email: [marctonimas@outlook.es](mailto:marctonimas@outlook.es)
-- Whatsapp: +34 652 13 48 06
-- LinkedIn: [Marc Antoni Mas](https://mtmarctoni.github.io/my-cv/)
-- More info: [https://mtmarctoni.github.io/my-cv/](https://mtmarctoni.github.io/my-cv/)
+- LinkedIn: [Marc Antoni Mas](https://linkedin.com/in/marctonimas/)
+- More info: [https://marctonimas.com/](https://marctonimas.com/)
 
 ---
 
@@ -56,7 +80,14 @@
 
 ---
 
+## ⚡ Fun Fact
+My journey has been anything but ordinary! I started as a researcher in nanoscience and physics, where I explored the tiniest mysteries of the universe. Then, I took a leap into renewable energy, leading innovation and helping harness the power of the sun 🌞. Not stopping there, I dove into full-stack development, building apps and solving tech puzzles 🧩. Now, I’m all-in on blockchain and Web3, shaping the future of decentralized technology 🚀.
+
+---
+
 🔍 Currently seeking opportunities in web development and blockchain projects. Let's connect and create innovative solutions together!
+
+
 
 <!--
 **mtmarctoni/mtmarctoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
